@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: fanglt0403.gitee.io/my-notes
+  baseUrl: letianfang99-creator.github.io/my-notes
   ignorePatterns:
     - private
     - templates
